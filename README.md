@@ -1,4 +1,4 @@
-# sum-duthanhduoc
+# sum-levanhieu
 
 Một thư viện giúp bạn tính tổng của 2 số bất kỳ
 
